@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "includes": [
+      {
+        "pattern": "\\Qhello.txt\\E"
+      }
+    ]
+  }
+}
